@@ -3,7 +3,6 @@ AP019624.1	1842103279	Nicotiana tabacum	161907	Nicotiana tabacum	4097
 BK010737.1	1870968546	Nicotiana knightiana 	155963	Nicotiana knightiana	118699
 BK010738.1	1870968638	Nicotiana rustica 	155850	Nicotiana rustica	4093
 BK010739.1	1870968725	Nicotiana obtusifolia 	156022	Nicotiana obtusifolia	200316
-BK010740.1	1870968813	Nicotiana glauca 	155917	Nicotiana glauca	4090
 BK010741.1	1870968902	Nicotiana paniculata 	155689	Nicotiana paniculata	62141
 BK010847.2	1865615594	Withania adpressa 	154364	Withania adpressa	2201923
 BK010849.2	1865618726	Withania riebeckii 	154162	Withania riebeckii	126909
@@ -22,7 +21,6 @@ LC729542.1	2402695850	Calystegia soldanella	152365	Calystegia soldanella	136204
 LC729544.1	2402696060	Erycibe henryi	155683	Erycibe henryi	2803495
 LC729545.1	2402696165	Evolvulus alsinoides var. oblongus	162367	Evolvulus alsinoides var. oblongus	2977074
 LC729546.1	2402696281	Hewittia malabarica	153219	Hewittia malabarica	1304670
-LC729550.1	2402696702	Ipomoea biflora	153167	Ipomoea biflora	2613358
 LC729551.1	2402696805	Ipomoea cairica	161780	Ipomoea cairica	129201
 LC729552.1	2402696910	Ipomoea imperati	161861	Ipomoea imperati	89646
 LC729553.1	2402697016	Ipomoea indica	162077	Ipomoea indica	264526
@@ -30,7 +28,6 @@ LC729554.1	2402697123	Ipomoea obscura	159578	Ipomoea obscura	89652
 LC729556.1	2402697337	Ipomoea tiliifolia	165459	Ipomoea tiliifolia	2607178
 LC729557.1	2402697448	Ipomoea x sloteri	161841	Ipomoea x sloteri	1001545
 LC729558.1	2402697555	Jacquemontia paniculata	164697	Jacquemontia paniculata	2732478
-LC729559.1	2402697657	Merremia hederacea	154711	Merremia hederacea	1580173
 LC729560.1	2402697758	Operculina turpethum	153970	Operculina turpethum	197426
 MF471371.1	1258176202	Solanum chacoense	155532	Solanum chacoense	4108
 MF471372.1	1258176290	Solanum hougasii	155549	Solanum hougasii	315339
@@ -45,7 +42,6 @@ MK036507.1	1588057014	Solanum brevicaule	155531	Solanum brevicaule	205532
 MK347419.1	1796207650	Anisodus tanguticus 	155764	Anisodus tanguticus	243964
 MK690622.1	1781316572	Solanum cardiophyllum 	155570	Solanum cardiophyllum	160510
 MK690623.1	1781316660	Solanum hjertingii 	155545	Solanum hjertingii	315338
-MK690624.1	1781316748	Solanum jamesii 	155576	Solanum jamesii	172793
 MK690625.1	1781316836	Solanum verrucosum 	155485	Solanum verrucosum	315347
 MN165114.1	1784319826	Nicandra physalodes 	156729	Nicandra physalodes	33118
 MN218082.1	1798157145	Solanum melongena	155585	Solanum melongena	4111
@@ -60,11 +56,8 @@ MN866909.1	1834331976	Lycium ferocissimum 	155894	Lycium ferocissimum	112874
 MT120858.1	1836278025	Solanum phureja	155492	Solanum phureja	172790
 MW420931.1	2030162947	Solanum erianthum 	156343	Solanum erianthum	374041
 MW470952.1	2115054877	Anisodus luridus 	156045	Anisodus luridus	258458
-MZ221853.1	2214780215	Solanum violaceimarmoratum	147157	Solanum violaceimarmoratum	315348
-MZ221921.1	2214785750	Solanum medians	112117	Solanum medians	710640
 MZ233588.1	2218441411	Solanum kurtzianum	155522	Solanum kurtzianum	198039
 MZ233591.1	2218441675	Solanum vernei	155591	Solanum vernei	162495
-MZ353649.1	2064311471	Solanum betaceum 	155937	Solanum betaceum	45843
 MZ450974.1	2084982170	Hyoscyamus muticus 	156271	Hyoscyamus muticus	35626
 NC_004561.1	28261696	Atropa belladonna 	156687	Atropa belladonna	33113
 NC_007500.1	78102509	Nicotiana sylvestris 	155941	Nicotiana sylvestris	4096
@@ -77,7 +70,7 @@ NC_009808.1	157325509	Ipomoea purpurea 	162046	Ipomoea purpurea	4121
 NC_009949.1	159106781	Cuscuta obtusiflora 	85286	Cuscuta obtusiflora	437280
 NC_009963.1	159161233	Cuscuta exaltata 	125373	Cuscuta exaltata	476139
 NC_016068.1	351653853	Nicotiana undulata 	155863	Nicotiana undulata	118713
-NC_018117.1	394831081	Datura stramonium 	155871	Datura stramonium	4076
+NC_024261.1	657302675	Hyoscyamus niger	155720	Hyoscyamus niger	4079
 NC_026551.1	814071764	Capsicum lycianthoides 	156583	Capsicum lycianthoides	362342
 NC_026563.1	788512358	Dunalia obovata 	156559	Dunalia obovata	362346
 NC_026567.1	803360217	Iochroma nitidum 	156574	Iochroma nitidum	362364
@@ -98,8 +91,6 @@ NC_027177.1	827045995	Iochroma tingoanum 	156823	Iochroma tingoanum	1545468
 NC_028007.1	937546660	Capsicum frutescens 	156817	Capsicum frutescens	4073
 NC_028069.2	1016879602	Solanum commersonii	155525	Solanum commersonii	4109
 NC_028070.2	1016879603	Solanum nigrum 	155432	Solanum nigrum	4112
-NC_029746.1	1011058203	Iochroma cardenasianum 	156510	Trompettia cardenasiana	362354
-NC_029833.1	1016472359	Iochroma australe 	156996	Eriolarynx australis	362352
 NC_030044.1	1025805943	Iochroma umbellatum 	156730	Iochroma umbellatum	362374
 NC_030056.1	1025806474	Acnistus arborescens x Iochroma cyaneum 	156841	Acnistus arborescens x Iochroma cyaneum	1830227
 NC_030167.1	1030177804	Iochroma lehmannii 	156835	Iochroma lehmannii	362362
@@ -109,6 +100,7 @@ NC_030177.1	1030178278	Iochroma ellipticum 	157052	Iochroma ellipticum	362359
 NC_030178.1	1030178363	Iochroma cyaneum	156791	Iochroma cyaneum	362357
 NC_030185.1	1030178601	Acnistus arborescens 	156898	Iochroma arborescens	362341
 NC_030282.1	1033320163	Scopolia parviflora 	156193	Scopolia parviflora	258455
+NC_030543.1	1043444826	Capsicum chinense	156807	Capsicum chinense	80379
 NC_031159.1	1075059466	Ipomoea nil	161897	Ipomoea nil	35883
 NC_032724.1	1128273320	Nicotiana otophora 	156073	Nicotiana otophora	4091
 NC_033524.1	1134945093	Capsicum galapagoense 	156959	Capsicum galapagoense	165701
@@ -160,6 +152,42 @@ NC_041207.1	1593555915	Ipomoea tabascana 	161225	Ipomoea tabascana	129207
 NC_041208.1	1593556002	Ipomoea x leucantha 	161296	Ipomoea x leucantha	2518009
 NC_041551.1	1610627260	Solanum acaule 	155570	Solanum acaule	103871
 NC_041552.1	1610627352	Solanum demissum 	155558	Solanum demissum	50514
+NC_041586.1	1610630040	Solanum abancayense	155492	Solanum abancayense	2082853
+NC_041587.1	1610630130	Solanum achacachense	155510	Solanum achacachense	317814
+NC_041588.1	1610630219	Solanum acroglossum	155270	Solanum acroglossum	856881
+NC_041589.1	1610630309	Solanum acroscopicum	155477	Solanum acroscopicum	317815
+NC_041590.1	1610630399	Solanum albornozii	155604	Solanum albornozii	561125
+NC_041591.1	1610630489	Solanum ambosinum	155489	Solanum ambosinum	317818
+NC_041592.1	1610630579	Solanum andreanum	155536	Solanum andreanum	315332
+NC_041593.1	1610630669	Solanum avilesii	155555	Solanum avilesii	315334
+NC_041594.1	1610630758	Solanum microdontum	155513	Solanum microdontum	73574
+NC_041595.1	1610630847	Solanum x blanco-galdosii	155553	Solanum x blanco-galdosii	856884
+NC_041596.1	1610630936	Solanum stenophyllidium	155578	Solanum stenophyllidium	205531
+NC_041600.1	1610631296	Solanum canasense	155506	Solanum canasense	2082851
+NC_041603.1	1610631565	Solanum chomatophilum	155427	Solanum chomatophilum	317820
+NC_041606.1	1610631834	Solanum gourlayi	155448	Solanum gourlayi	172792
+NC_041608.1	1610632012	Solanum hondelmannii	155541	Solanum hondelmannii	1128165
+NC_041609.1	1610632101	Solanum venturii	155477	Solanum venturii	610331
+NC_041610.1	1610632190	Solanum marinasense	155492	Solanum marinasense	317826
+NC_041611.1	1610632281	Solanum hypacrarthrum	155484	Solanum hypacrarthrum	856976
+NC_041612.1	1610632370	Solanum incamayoense	155462	Solanum incamayoense	317824
+NC_041613.1	1610632460	Solanum jamesii	155592	Solanum jamesii	172793
+NC_041615.1	1610632637	Solanum laxissimum	155540	Solanum laxissimum	73573
+NC_041616.1	1610632727	Solanum leptophyes	155470	Solanum leptophyes	172794
+NC_041617.1	1610632816	Solanum limbaniense	155508	Solanum limbaniense	856981
+NC_041618.1	1610632905	Solanum medians	155530	Solanum medians	710640
+NC_041619.1	1610632994	Solanum megistacrolobum	155559	Solanum megistacrolobum	445678
+NC_041620.1	1610633084	Solanum multiinterruptum	155514	Solanum multiinterruptum	317829
+NC_041621.1	1610633174	Solanum bukasovii f. multidissectum	155523	Solanum bukasovii f. multidissectum	710638
+NC_041622.1	1610633263	Solanum palustre	155301	Solanum palustre	4115
+NC_041623.1	1610633352	Solanum pampasense	155519	Solanum pampasense	317832
+NC_041624.1	1610633441	Solanum paucissectum	155369	Solanum paucissectum	856984
+NC_041626.1	1610633622	Solanum pinnatisectum	155614	Solanum pinnatisectum	50273
+NC_041627.1	1610633711	Solanum polyadenium	155257	Solanum polyadenium	62893
+NC_041628.1	1610633802	Solanum sogarandinum	155562	Solanum sogarandinum	52705
+NC_041630.1	1610633982	Solanum spegazzinii	155519	Solanum spegazzinii	42755
+NC_041631.1	1610634071	Solanum tarijense	155546	Solanum tarijense	257458
+NC_041634.1	1610634339	Solanum violaceimarmoratum	155505	Solanum violaceimarmoratum	315348
 NC_042204.1	1642523155	Lycium chinense 	155745	Lycium chinense	112883
 NC_042935.1	1693303937	Ipomoea asarifolia	160589	Ipomoea asarifolia	89639
 NC_042936.1	1693304047	Ipomoea carnea	160819	Ipomoea carnea	89640
@@ -169,13 +197,21 @@ NC_042939.1	1693304383	Ipomoea marabensis	161324	Ipomoea marabensis	2029530
 NC_042940.1	1693304480	Ipomoea maurandioides	161242	Ipomoea maurandioides	2575954
 NC_042941.1	1693304576	Ipomoea quamoclit	160836	Ipomoea quamoclit	89660
 NC_042942.1	1693304675	Ipomoea setifera	160082	Ipomoea setifera	2029531
+NC_042948.1	1693305029	Cuscuta erosa	60959	Cuscuta erosa	437626
+NC_042949.1	1693305072	Cuscuta boldinghii	62375	Cuscuta boldinghii	437623
+NC_042956.1	1693305503	Cuscuta costaricensis	86691	Cuscuta costaricensis	437255
+NC_043775.1	1707505644	Cuscuta strobilacea	63787	Cuscuta strobilacea	437305
+NC_043868.1	1707511772	Cuscuta carnosa	81577	Cuscuta carnosa	1197927
+NC_043869.1	1707511831	Cuscuta mexicana	83526	Cuscuta mexicana	1197930
+NC_043870.1	1707511889	Cuscuta chapalana	84607	Cuscuta chapalana	437248
+NC_043871.1	1707511951	Cuscuta bonafortunae	82346	Cuscuta bonafortunae	1197926
 NC_044154.1	1714605661	Physochlaina orientalis 	156321	Physochlaina orientalis	451527
 NC_044471.1	1735237090	Atropanthe sinensis 	156565	Atropanthe sinensis	258461
-NC_045885.1	1812101726	Cuscuta australis 	85263	Cuscuta australis	267555
 NC_047176.1	1834959621	Withania coagulans 	154196	Withania coagulans	180581
 NC_047245.1	1834963272	Withania somnifera 	155365	Withania somnifera	126910
 NC_048514.1	1847693418	Physalis pubescens 	157007	Physalis pubescens	300354
 NC_048515.1	1847693505	Physalis minima 	156692	Physalis minima	304153
+NC_050169.1	1892964191	Calibrachoa hybrid cultivar	156099	Calibrachoa hybrid cultivar	418041
 NC_050204.1	1904802651	Solanum stenotomum subsp. goniocalyx	155492	Solanum stenotomum subsp. goniocalyx	1050191
 NC_050205.1	1904802740	Solanum ahanhuiri	155486	Solanum ahanhuiri	875672
 NC_050206.1	1904802828	Solanum stenotomum subsp. stenotomum	155492	Solanum stenotomum subsp. stenotomum	2650462
@@ -184,7 +220,10 @@ NC_050208.1	1904811113	Solanum x juzepczukii	155532	Solanum x juzepczukii	136614
 NC_050209.1	1904803006	Solanum chaucha	155518	Solanum chaucha	682313
 NC_050210.1	1904803098	Solanum x curtilobum	155492	Solanum x curtilobum	875673
 NC_050782.1	1919563413	Petunia exserta 	156597	Petunia exserta	323115
-NC_052920.1	1980534636	Cuscuta campestris 	86727	Cuscuta campestris	132261
+NC_052869.1	1980532018	Cuscuta nitida	113762	Cuscuta nitida	192831
+NC_052870.1	1980532109	Cuscuta africana	105066	Cuscuta africana	413235
+NC_052871.1	1980532185	Cuscuta approximata	98380	Cuscuta approximata	184478
+NC_052872.1	1980532265	Cuscuta pedicellata	97091	Cuscuta pedicellata	192827
 NC_054186.1	2026151773	Solanum japonense	155451	Solanum japonense	2785320
 NC_054224.1	2026153867	Convolvulus arvensis 	153234	Convolvulus arvensis	4123
 NC_056300.1	2055413555	Ipomoea aquatica	162663	Ipomoea aquatica	89636
@@ -198,6 +237,12 @@ NC_056981.1	2088242916	Nicotiana repanda 	155454	Nicotiana repanda	76336
 NC_057245.1	2088256339	Solanum rostratum 	155559	Solanum rostratum	45839
 NC_058315.1	2120478335	Tubocapsicum anomalum 	155802	Tubocapsicum anomalum	180580
 NC_060402.1	2192916114	Ipomoea pes-caprae	161733	Ipomoea pes-caprae	89656
+NC_060786.1	2192936310	Ipomoea biflora	153203	Ipomoea biflora	2613358
+NC_060787.1	2192936392	Argyreia velutina	162848	Argyreia velutina	2847854
+NC_060790.1	2192936626	Dichondra micrantha	163228	Dichondra micrantha	1053343
+NC_060791.1	2192936713	Dinetus racemosus	150706	Dinetus racemosus	941697
+NC_060792.1	2192936795	Erycibe obtusifolia	150333	Erycibe obtusifolia	1603722
+NC_060793.1	2192936876	Merremia hederacea	155308	Merremia hederacea	1580173
 NC_061213.1	2206967217	Solanum sisymbriifolium 	155771	Solanum sisymbriifolium	205582
 NC_061388.1	2206977030	Solanum aculeatissimum 	155820	Solanum aculeatissimum	267265
 NC_062078.1	2216740857	Solanum arcanum 	155516	Solanum arcanum	376710
@@ -207,6 +252,7 @@ NC_062081.1	2216741109	Solanum huaylasense 	155571	Solanum huaylasense	588598
 NC_062419.1	2222323993	Solanum aridum	155112	Solanum aridum	1380596
 NC_062420.1	2222306978	Solanum aturense	97586	Solanum aturense	329763
 NC_062421.1	2222307040	Solanum aureum	126405	Solanum aureum	2801088
+NC_062422.1	2222307116	Solanum imamense	69796	Solanum imamense	2802707
 NC_062423.1	2222307164	Solanum inodorum	133460	Solanum inodorum	2802708
 NC_062424.1	2222307241	Solanum laciniatum	156018	Solanum laciniatum	45835
 NC_062425.1	2222307325	Solanum mariae	152669	Solanum mariae	2802709
@@ -319,99 +365,12 @@ NC_073578.1	2489643134	Cuscuta pacifica	82539	Cuscuta pacifica	703176
 NC_073579.1	2489643195	Cuscuta micrantha	85736	Cuscuta micrantha	437277
 NC_073580.1	2489643256	Cuscuta nevadensis	83906	Cuscuta nevadensis	437279
 NC_073581.1	2489643317	Cuscuta polyanthemos	84968	Cuscuta polyanthemos	437288
-OK326864.1	2126927411	Solanum muricatum 	155681	Solanum muricatum	205567
-OM638058.1	2392239151	Solanum cajamarquense 	155567	Solanum cajamarquense	856892
-OM638061.1	2392239412	Solanum etuberosum 	155302	Solanum etuberosum	200525
-OM638065.1	2392239760	Solanum microdontum 	155493	Solanum microdontum	73574
-OM638066.1	2392239847	Solanum megistacrolobum 	155497	Solanum megistacrolobum	445678
-OM638067.1	2392239934	Solanum paucissectum 	155337	Solanum paucissectum	856984
-OM638071.1	2392240282	Solanum tarijense 	155295	Solanum tarijense	257458
-OM638075.1	2392240630	Solanum pinnatisectum 	155598	Solanum pinnatisectum	50273
-OM638077.1	2392240804	Solanum sparsipilum 	155470	Solanum sparsipilum	172796
-OP846044.1	2428833249	Lycium barbarum var. auranticarpum 	154978	Lycium barbarum var. auranticarpum	1816538
-OQ632460.1	2486710661	Solanum pseudocapsicum 	155365	Solanum pseudocapsicum	45837
-NC_001879.2	81238323	Nicotiana tabacum	155943	Nicotiana tabacum	4097
-NC_024261.1	657302675	Hyoscyamus niger	155720	Hyoscyamus niger	4079
-NC_026570.1	814071933	Physalis peruviana	156706	Physalis peruviana	126903
-NC_030207.1	1031916976	Solanum melongena	154289	Solanum melongena	4111
-NC_030543.1	1043444826	Capsicum chinense	156807	Capsicum chinense	80379
-NC_034670.1	1197510569	Ipomoea trifida	161133	Ipomoea trifida	35884
-NC_041586.1	1610630040	Solanum abancayense	155492	Solanum abancayense	2082853
-NC_041587.1	1610630130	Solanum achacachense	155510	Solanum achacachense	317814
-NC_041588.1	1610630219	Solanum acroglossum	155270	Solanum acroglossum	856881
-NC_041589.1	1610630309	Solanum acroscopicum	155477	Solanum acroscopicum	317815
-NC_041590.1	1610630399	Solanum albornozii	155604	Solanum albornozii	561125
-NC_041591.1	1610630489	Solanum ambosinum	155489	Solanum ambosinum	317818
-NC_041592.1	1610630579	Solanum andreanum	155536	Solanum andreanum	315332
-NC_041593.1	1610630669	Solanum avilesii	155555	Solanum avilesii	315334
-NC_041594.1	1610630758	Solanum microdontum	155513	Solanum microdontum	73574
-NC_041595.1	1610630847	Solanum x blanco-galdosii	155553	Solanum x blanco-galdosii	856884
-NC_041596.1	1610630936	Solanum stenophyllidium	155578	Solanum stenophyllidium	205531
-NC_041597.1	1610631025	Solanum brevicaule	155522	Solanum brevicaule	205532
-NC_041599.1	1610631205	Solanum cajamarquense	155525	Solanum cajamarquense	856892
-NC_041600.1	1610631296	Solanum canasense	155506	Solanum canasense	2082851
-NC_041601.1	1610631386	Solanum cardiophyllum	155456	Solanum cardiophyllum	160510
-NC_041602.1	1610631475	Solanum chacoense	155518	Solanum chacoense	4108
-NC_041603.1	1610631565	Solanum chomatophilum	155427	Solanum chomatophilum	317820
-NC_041604.1	1610631655	Solanum etuberosum	155302	Solanum etuberosum	200525
-NC_041605.1	1610631745	Solanum stenotomum subsp. goniocalyx	155492	Solanum stenotomum subsp. goniocalyx	1050191
-NC_041606.1	1610631834	Solanum gourlayi	155448	Solanum gourlayi	172792
-NC_041608.1	1610632012	Solanum hondelmannii	155541	Solanum hondelmannii	1128165
-NC_041609.1	1610632101	Solanum venturii	155477	Solanum venturii	610331
-NC_041610.1	1610632190	Solanum marinasense	155492	Solanum marinasense	317826
-NC_041611.1	1610632281	Solanum hypacrarthrum	155484	Solanum hypacrarthrum	856976
-NC_041612.1	1610632370	Solanum incamayoense	155462	Solanum incamayoense	317824
-NC_041613.1	1610632460	Solanum jamesii	155592	Solanum jamesii	172793
-NC_041614.1	1610632548	Solanum kurtzianum	155506	Solanum kurtzianum	198039
-NC_041615.1	1610632637	Solanum laxissimum	155540	Solanum laxissimum	73573
-NC_041616.1	1610632727	Solanum leptophyes	155470	Solanum leptophyes	172794
-NC_041617.1	1610632816	Solanum limbaniense	155508	Solanum limbaniense	856981
-NC_041618.1	1610632905	Solanum medians	155530	Solanum medians	710640
-NC_041619.1	1610632994	Solanum megistacrolobum	155559	Solanum megistacrolobum	445678
-NC_041620.1	1610633084	Solanum multiinterruptum	155514	Solanum multiinterruptum	317829
-NC_041621.1	1610633174	Solanum bukasovii f. multidissectum	155523	Solanum bukasovii f. multidissectum	710638
-NC_041622.1	1610633263	Solanum palustre	155301	Solanum palustre	4115
-NC_041623.1	1610633352	Solanum pampasense	155519	Solanum pampasense	317832
-NC_041624.1	1610633441	Solanum paucissectum	155369	Solanum paucissectum	856984
-NC_041625.1	1610633530	Solanum phureja	155492	Solanum phureja	172790
-NC_041626.1	1610633622	Solanum pinnatisectum	155614	Solanum pinnatisectum	50273
-NC_041627.1	1610633711	Solanum polyadenium	155257	Solanum polyadenium	62893
-NC_041628.1	1610633802	Solanum sogarandinum	155562	Solanum sogarandinum	52705
-NC_041629.1	1610633892	Solanum sparsipilum	155469	Solanum sparsipilum	172796
-NC_041630.1	1610633982	Solanum spegazzinii	155519	Solanum spegazzinii	42755
-NC_041631.1	1610634071	Solanum tarijense	155546	Solanum tarijense	257458
-NC_041632.1	1610634161	Solanum verrucosum	155479	Solanum verrucosum	315347
-NC_041633.1	1610634250	Solanum vernei	155590	Solanum vernei	162495
-NC_041634.1	1610634339	Solanum violaceimarmoratum	155505	Solanum violaceimarmoratum	315348
-NC_042948.1	1693305029	Cuscuta erosa	60959	Cuscuta erosa	437626
-NC_042949.1	1693305072	Cuscuta boldinghii	62375	Cuscuta boldinghii	437623
-NC_042956.1	1693305503	Cuscuta costaricensis	86691	Cuscuta costaricensis	437255
-NC_043775.1	1707505644	Cuscuta strobilacea	63787	Cuscuta strobilacea	437305
-NC_043868.1	1707511772	Cuscuta carnosa	81577	Cuscuta carnosa	1197927
-NC_043869.1	1707511831	Cuscuta mexicana	83526	Cuscuta mexicana	1197930
-NC_043870.1	1707511889	Cuscuta chapalana	84607	Cuscuta chapalana	437248
-NC_043871.1	1707511951	Cuscuta bonafortunae	82346	Cuscuta bonafortunae	1197926
-NC_050169.1	1892964191	Calibrachoa hybrid cultivar	156099	Calibrachoa hybrid cultivar	418041
-NC_052869.1	1980532018	Cuscuta nitida	113762	Cuscuta nitida	192831
-NC_052870.1	1980532109	Cuscuta africana	105066	Cuscuta africana	413235
-NC_052871.1	1980532185	Cuscuta approximata	98380	Cuscuta approximata	184478
-NC_052872.1	1980532265	Cuscuta pedicellata	97091	Cuscuta pedicellata	192827
-NC_060786.1	2192936310	Ipomoea biflora	153203	Ipomoea biflora	2613358
-NC_060787.1	2192936392	Argyreia velutina	162848	Argyreia velutina	2847854
-NC_060788.1	2192936477	Calystegia soldanella	152317	Calystegia soldanella	136204
-NC_060789.1	2192936559	Cuscuta japonica	120975	Cuscuta japonica	81913
-NC_060790.1	2192936626	Dichondra micrantha	163228	Dichondra micrantha	1053343
-NC_060791.1	2192936713	Dinetus racemosus	150706	Dinetus racemosus	941697
-NC_060792.1	2192936795	Erycibe obtusifolia	150333	Erycibe obtusifolia	1603722
-NC_060793.1	2192936876	Merremia hederacea	155308	Merremia hederacea	1580173
-NC_062422.1	2222307116	Solanum imamense	69796	Solanum imamense	2802707
 NC_081500.1	2569531994	Brugmansia arborea	155939	Brugmansia arborea	41689
 NC_083980.1	2627892180	Solanum muricatum	155733	Solanum muricatum	205567
 NC_084119.1	2627901555	Lycium qingshuiheense	154945	Lycium qingshuiheense	1108001
 NC_084120.1	2627901642	Lycium barbarum var. implicatum	154888	Lycium barbarum var. implicatum	1112053
 NC_085278.1	2666679211	Physalis ixocarpa	156871	Physalis ixocarpa	374031
 NC_085534.1	2666692411	Calystegia hederacea	152057	Calystegia hederacea	480913
-NC_085711.1	2666703925	Solanum torvum	154942	Solanum torvum	119830
 NC_086521.1	2692938790	Solanum huancabambense	155587	Solanum huancabambense	856898
 NC_086522.1	2692938876	Solanum stipuloideum	155529	Solanum stipuloideum	3112401
 NC_086523.1	2692938962	Solanum anamatophilum	155525	Solanum anamatophilum	856883
@@ -427,10 +386,14 @@ NC_086549.1	2692940483	Solanum tarnii	155590	Solanum tarnii	856989
 NC_086550.1	2692940569	Solanum ehrenbergii	155594	Solanum ehrenbergii	199469
 NC_086861.1	2692956424	Solanum lasiocarpum	155671	Solanum lasiocarpum	227722
 NC_086862.1	2692956510	Solanum pittosporifolium	155926	Solanum pittosporifolium	1045174
-NC_086868.1	2692956914	Solanum betaceum	155937	Solanum betaceum	45843
 NC_086880.1	2692957715	Lycium truncatum	155638	Lycium truncatum	942186
 NC_086881.1	2692957800	Lycium yunnanense	155620	Lycium yunnanense	942187
 NC_086882.1	2692957885	Mandragora caulescens	154810	Mandragora caulescens	337183
 NC_086883.1	2692957972	Lycium ningxiaense	154892	Lycium ningxiaense	3118957
 NC_086884.1	2692958059	Lycium amarum	155677	Lycium amarum	1968205
 NC_086885.1	2692958144	Lycium cylindricum	155662	Lycium cylindricum	1167620
+OM638058.1	2392239151	Solanum cajamarquense 	155567	Solanum cajamarquense	856892
+OM638061.1	2392239412	Solanum etuberosum 	155302	Solanum etuberosum	200525
+OM638077.1	2392240804	Solanum sparsipilum 	155470	Solanum sparsipilum	172796
+OP846044.1	2428833249	Lycium barbarum var. auranticarpum 	154978	Lycium barbarum var. auranticarpum	1816538
+OQ632460.1	2486710661	Solanum pseudocapsicum 	155365	Solanum pseudocapsicum	45837
