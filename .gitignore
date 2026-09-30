@@ -1,8 +1,17 @@
+# secrets
 .env
 
-plants_plt_solanaceae/plants_plt_raw_lineage.tsv
-plants_plt_solanaceae/plants_plt_raw_lineage.tsv
-plants_plt_solanaceae/plants_plt_summary_atlas.tsv
-plants_plt_solanaceae/plants_plt.tsv
-plants_plt_solanaceae/aln_per_sequence.tsv
-plants_plt_solanaceae/gene_pair_fastas
+# extracted FASTAs, at any depth
+**/gene_pair_fastas/
+
+# Entrez lineage intermediates, at any depth
+*_raw_lineage.tsv
+
+# group-level summary atlas only (e.g. plants_plt/plants_plt_summary_atlas.tsv);
+# subgroup atlases like plants_plt/solanaceae/solanaceae_summary_atlas.tsv are kept
+/*/*_summary_atlas.tsv
+
+# alignment outputs, at any depth
+**/alignments/*/*.fasta
+**/alignments/*/logs/
+**/alignments/*_aln.tsv
