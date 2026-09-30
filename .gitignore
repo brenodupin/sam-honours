@@ -1,8 +1,13 @@
 # secrets
 .env
+*.log
 
-# extracted FASTAs, at any depth
+# sandbox folder
+sandbox/
+
+# extracted FASTAs and tree, at any depth
 **/gene_pair_fastas/
+**/gene_pair_trees/
 
 # Entrez lineage intermediates, at any depth
 *_raw_lineage.tsv
@@ -14,4 +19,5 @@
 # alignment outputs, at any depth
 **/alignments/*/*.fasta
 **/alignments/*/logs/
+**/alignments/*/tmp/
 **/alignments/*_aln.tsv
