@@ -132,3 +132,5 @@ for g, subgs in groups_map.items():
                     print(f"  [ERROR] {gp}: {status}")
                 else:
                     print(f"  {gp}: {status}")
+
+print("All done.")

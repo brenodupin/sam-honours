@@ -1,0 +1,4 @@
+purge_tag	group	subgroup	ANs_removed	ANs_added	unchanged	fasta_changed	tree_changed	tree_reordered	new	dropped	rerun_prank_2026-09-30	rerun_clustalo_2026-09-30
+2026-10-01	plants_plt	solanaceae	AP019624.1;MK347419.1;NC_032724.1	NC_001879.2	58	136	0	0	0	0	136	136
+2026-10-01-second	plants_plt	solanaceae	NC_035516.1;NC_062420.1;NC_062421.1;NC_062422.1;NC_062423.1;NC_062429.1;NC_062467.1;NC_062473.1;NC_062485.1;NC_062492.1;NC_062500.1;NC_062505.1;NC_062863.1;NC_062868.1	""	33	141	18	0	0	2	159	141
+2026-10-07	plants_plt	solanaceae	NC_062495.1	""	0	93	52	0	0	0	145	93
