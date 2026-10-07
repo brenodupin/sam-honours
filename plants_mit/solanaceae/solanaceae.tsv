@@ -1,11 +1,4 @@
 AN	GI	Species	Genome_length	ncbi_name	ncbi_taxid
-BK016277.1	2171421298	Cuscuta campestris 	275898	Cuscuta campestris	132261
-BK059197.1	2240494300	Cuscuta australis contig1 	125641	Cuscuta australis	267555
-BK059236.1	2206415704	Convolvulus arvensis 	312437	Convolvulus arvensis	4123
-BK059237.1	2206415744	Cuscuta epilinum 	401461	Cuscuta epilinum	186060
-BK059238.1	2206415783	Cuscuta europaea 	406647	Cuscuta europaea	41803
-BK059240.1	2206415663	Ipomoea trifida chromosome 1 	139596	Ipomoea trifida	35884
-BK059242.1	2206415860	Ipomoea triloba chromosome 1 	160302	Ipomoea triloba	35885
 KM207678.1	756762080	Nicotiana tabacum/Hyoscyamus niger cybrid clone contig1 	270466	Nicotiana tabacum/Hyoscyamus niger cybrid	1520274
 MN196478.1	1771301930	Capsicum annuum var. glabriusculum 	497487	Capsicum annuum var. glabriusculum	165789
 MT122958.1	1883211185	Solanum wrightii chromosome 1	294451	Solanum wrightii	374009
@@ -19,30 +12,16 @@ MW122974.1	1935002666	Solanum x juzepczukii chromosome 2 	113545	Solanum x juzep
 MW122977.1	1935002741	Solanum chaucha chromosome 2 	113453	Solanum chaucha	682313
 MW122980.1	1935002817	Solanum x curtilobum chromosome 2 	112635	Solanum x curtilobum	875673
 MW594284.1	2104696273	Solanum okadae chromosome 3 	334889	Solanum okadae	73575
-MZ240723.1	2183118830	Ipomoea biflora	278121	Ipomoea biflora	2613358
-MZ240724.1	2183118869	Argyreia velutina	255815	Argyreia velutina	2847854
-MZ240727.1	2183118995	Dinetus racemosus	273499	Dinetus racemosus	941697
-MZ240728.1	2183119080	Erycibe obtusifolia	294395	Erycibe obtusifolia	1603722
-MZ240730.1	2183119170	Ipomoea aquatica	296682	Ipomoea aquatica	89636
-MZ240731.1	2183119224	Merremia hederacea	272653	Merremia hederacea	1580173
-MZ240732.1	2183119273	Ipomoea quamoclit	293939	Ipomoea quamoclit	89660
-MZ240733.1	2183119314	Dichondra micrantha chromosome 1 	151252	Dichondra micrantha	1053343
-MZ240736.1	2183119358	Ipomoea pes-caprae chromosome 1 	106281	Ipomoea pes-caprae	89656
 MZ736639.1	2096848888	Capsicum chinense chromosome 2 	244778	Capsicum chinense	80379
 NC_006581.1	57013877	Nicotiana tabacum 	430597	Nicotiana tabacum	4097
 NC_026515.1	814071725	Hyoscyamus niger 	501401	Hyoscyamus niger	4079
 NC_029805.1	1016470551	Nicotiana sylvestris	430597	Nicotiana sylvestris	4096
-NC_031158.1	1075059435	Ipomoea nil	265768	Ipomoea nil	35883
 NC_035963.1	1252313644	Solanum lycopersicum	446257	Solanum lycopersicum	4081
 NC_035964.1	1252313684	Solanum pennellii	423596	Solanum pennellii	28526
 NC_036467.1	1314948859	Nicotiana attenuata 	394341	Nicotiana attenuata	49451
 NC_044153.1	1714605623	Physochlaina orientalis 	684857	Physochlaina orientalis	451527
 NC_050334.1	1904806331	Solanum melongena	482343	Solanum melongena	4111
 NC_050335.1	1904806381	Solanum aethiopicum	566695	Solanum aethiopicum	205524
-NC_060803.1	2192937296	Calystegia soldanella	279265	Calystegia soldanella	136204
-NC_060804.1	2192937337	Cuscuta japonica	813731	Cuscuta japonica	81913
-NC_068714.1	2386960691	Ipomoea batatas 	257880	Ipomoea batatas	4120
-NC_081485.1	2569530801	Cuscuta epithymum	407988	Cuscuta epithymum	186058
 NC_083979.1	2627892119	Solanum muricatum	433466	Solanum muricatum	205567
 NC_086721.1	2692949561	Nicotiana longiflora	348585	Nicotiana longiflora	118702
 OL467322.1	2169227549	Alkekengi officinarum var. franchetii 	602268	Alkekengi officinarum var. franchetii	221454
