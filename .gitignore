@@ -3,13 +3,14 @@
 *.log
 *.out
 *.gdt
+*.py
 
 # sandbox folder
 sandbox/
 
 # extracted FASTAs and tree, at any depth
-**/gene_pair_fastas/
-**/gene_pair_trees/
+**/igr_fastas/
+**/igr_trees/
 **/cds_tree/
 **/gff3/
 **/fasta/
