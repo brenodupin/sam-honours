@@ -36,7 +36,10 @@ def get_info(group: str, subgroup: str) -> dict:
     d = gd / subgroup
     yaml_file = d / f"{subgroup}.yaml"
     own = (yaml.safe_load(yaml_file.read_text()) or {}) if yaml_file.exists() else {}
-    config = {**CONFIG.get("defaults", {}), **own}  # subgroup values win over config.yaml defaults
+    config = {
+        **CONFIG.get("defaults", {}),
+        **own,
+    }  # subgroup values win over config.yaml defaults
     runs = {**CONFIG.get("runs", {}), **(own.get("runs") or {})}
     return {
         "group": group,
