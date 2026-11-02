@@ -1,0 +1,32 @@
+# Settings for plants_plt/solanaceae. Anything under `runs:` overrides config.yaml.
+
+# 01_get_data: keep genomes whose NCBI lineage contains any of these taxa
+lineage_keywords: [Solanaceae]
+
+# prank_tree/04_iq_tree: root the species tree on these ANs (they must form a clade)
+outgroup:
+  - NC_040178.1   # Petunia
+  - NC_050782.1   # Petunia
+  - NC_050169.1   # Calibrachoa
+
+# notebooks/03_prank: gene pairs left out of the PRANK run
+exclude_pairs: []
+  # - CLPP_PSBT_-+    # psbB not annotated in these genomes
+  # - RBCL_PSAI_++    # accD
+  # - RPS12_PSBB_-+   # clpP
+  # - TE_PSBD_-+
+  # - TV_RPS7_-+
+  # - RPS7_TV_-+
+  # - RPL23_TH_+-
+  # - TS1|2_TR_-+
+
+# prank_tree/05_igr_tree: branch-length scale for the guide trees (IGR/CDS rate ratio), set by hand
+#   pass 1: guide_tree_scale: 1 + runs: {guide_trees: cds_first_pass} -> run 05, 06, 07
+#   pass 2: the scale 07 prints  + runs: {guide_trees: cds_refined}    -> run 05 again
+guide_tree_scale: 14.632
+guide_tree_scale_source: guide_trees/cds_first_pass/scale/clustalo_2026-10-08 (weighted median)
+
+# Per-subgroup run names (override config.yaml), e.g. to try new PRANK flags here only
+runs:
+  guide_trees: cds_refined
+  # prank: prank_cds_refined_v2

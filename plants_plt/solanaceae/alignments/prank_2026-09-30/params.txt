@@ -1,1 +1,0 @@
-/home/bdupin/tools/prank-msa/src/prank -d=gp_{gp}.fasta -t=gp_{gp}.nwk -o=gp_{gp} -DNA +F -once -shortnames

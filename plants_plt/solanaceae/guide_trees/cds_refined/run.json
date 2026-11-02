@@ -1,0 +1,18 @@
+{
+  "run_name": "cds_refined",
+  "group": "plants_plt",
+  "subgroup": "solanaceae",
+  "date": "2026-11-02 14:49:30",
+  "iqtree_run_name": "first_pass",
+  "scale": 14.632,
+  "scale_source": "guide_trees/cds_first_pass/scale/clustalo_2026-10-08 (weighted median)",
+  "dup_branch": 0.0001,
+  "source_tree": "species_tree/iqtree/first_pass/tree.nwk",
+  "mafft_run_name": "first_pass",
+  "cds_run_name": "first_pass",
+  "gene_pairs_file": "gene_pairs/gene_pairs_filtered.tsv",
+  "igr_fastas": "gene_pairs/igr_by_pair",
+  "n_tree_tips": 303,
+  "max_root_to_tip": 0.35756955121199996,
+  "n_gene_pair_trees": 144
+}

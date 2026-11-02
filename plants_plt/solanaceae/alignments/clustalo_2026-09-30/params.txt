@@ -1,1 +1,0 @@
-clustalo -i <gp_dir>/gp_{gp}.fasta -o <run_dir>/gp_{gp}_aligned.fasta --outfmt=fa -t DNA --full-iter --iter=3 --output-order=input-order --threads=1 --log=<logs_dir>/gp_{gp}_clustalo.log --verbose --force
