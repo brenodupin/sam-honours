@@ -1,31 +1,39 @@
-# secrets
+# --- secrets and local clutter
 .env
 *.log
 *.out
-*.gdt
-*.py
-
-# sandbox folder
+*.tar.gz
 sandbox/
+.ruff_cache/
+__pycache__/
+.ipynb_checkpoints/
 
-# extracted FASTAs and tree, at any depth
-**/igr_fastas/
-**/igr_trees/
-**/cds_tree/
-**/gff3/
-**/fasta/
-**/qc_purge/
-
-# Entrez lineage intermediates, at any depth
-*_raw_lineage.tsv
-
-# group-level summary atlas only (e.g. plants_plt/plants_plt_summary_atlas.tsv);
-# subgroup atlases like plants_plt/solanaceae/solanaceae_summary_atlas.tsv are kept
+# --- copied from the source atlas (re-created by 01_get_data)
+*.gdt
+*_lineage.tsv
+# group-level atlas only; subgroup atlases (plants_plt/solanaceae/..._summary_atlas.tsv) are kept
 /*/*_summary_atlas.tsv
+**/source/
+**/gene_pairs/igr_by_pair/
 
-# alignment outputs, at any depth
+# --- species tree: keep run.json, QC tables and the final trees
+**/species_tree/**
+!**/species_tree/**/
+!**/species_tree/**/run.json
+!**/species_tree/**/*_qc.tsv
+!**/species_tree/iqtree/*/tree.nwk
+!**/species_tree/iqtree/*/tree_support.nwk
+!**/species_tree/iqtree/*/partitions.nex
+!**/species_tree/iqtree/*/iqtree.iqtree
+**/species_tree/mafft/*/aln_seq_qc.tsv
+
+# --- guide trees and scale fits: keep run.json and the scale table
+**/guide_trees/*/gp_*
+**/guide_trees/*/scale/*/gp_*
+
+# --- alignment runs: keep run.json and the metrics tables
 **/alignments/*/*.fasta
 **/alignments/*/logs/
 **/alignments/*/_stale/
 **/alignments/*/tmp/
-**/alignments/*_aln.tsv
+**/alignments/*/metrics_by_seq.tsv

@@ -1,0 +1,35 @@
+# Project-level settings, shared by every group and subgroup.
+# Subgroup settings (lineage keywords, outgroup, run overrides, ...) live next to each
+# subgroup's TSV, e.g. plants_plt/solanaceae/solanaceae.yaml
+
+source_path: ../igannot/sandbox/new_atlas   # the atlas, relative to this file
+
+tools:
+  prank: ~/tools/prank-msa/src/prank
+  clustalo: clustalo
+  mafft: mafft
+  iqtree: iqtree3
+
+workers: 32
+
+# Subgroups get_all() returns; each needs a <subgroup>.yaml in its folder
+groups:
+  plants_plt: [solanaceae, solanaceae_subset]
+  plants_mit: [solanaceae]
+
+# Default settings; a subgroup's YAML overrides any of them (same key at its top level)
+defaults:
+  # 02_gene_pairs: a gene pair is kept if mean_len > min_mean_len and it is present in at
+  # least max(min_genomes, min_genome_frac x subgroup size) genomes
+  min_mean_len: 50
+  min_genomes: 10
+  min_genome_frac: 0.05
+
+# Default run names; a subgroup's YAML can override any of them under `runs:`
+runs:
+  cds: first_pass                  # prank_tree/01-02: species_tree/cds/<run>
+  mafft: first_pass                # prank_tree/03: species_tree/mafft/<run>
+  iqtree: first_pass               # prank_tree/04: species_tree/iqtree/<run>
+  guide_trees: cds_refined         # prank_tree/05 and 07, notebooks/03: guide_trees/<run>
+  clustalo: clustalo_2026-10-08    # prank_tree/06: alignments/<run>
+  prank: prank_cds_refined         # notebooks/03: alignments/<run>
