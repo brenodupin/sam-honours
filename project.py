@@ -5,7 +5,7 @@
     info = get_info("plants_plt", "solanaceae")      # one subgroup
     everything = get_all()                            # {group: {subgroup: info}} from config.yaml
 
-Notebooks in prank_tree/ need the project root on the path first:
+Notebooks in guide_trees/ need the project root on the path first:
 
     import sys; sys.path.insert(0, "..")
 """
@@ -72,7 +72,7 @@ def get_info(group: str, subgroup: str) -> dict:
             "gene_pairs_filtered": d / "gene_pairs" / "gene_pairs_filtered.tsv",
             "gene_pairs_flipped": d / "gene_pairs" / "gene_pairs_flipped.tsv",
             "igr_by_pair": d / "gene_pairs" / "igr_by_pair",
-            # prank_tree/
+            # guide_trees/
             "species_tree": d / "species_tree",
             "guide_trees": d / "guide_trees",
             # 03a/03b/04
