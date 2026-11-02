@@ -14,8 +14,8 @@ workers: 32
 
 # Subgroups get_all() returns; each needs a <subgroup>.yaml in its folder
 groups:
-  plants_plt: [solanaceae, solanaceae_subset]
-  plants_mit: [solanaceae]
+  plants_plt: [solanaceae, poaceae]
+  #plants_mit: [solanaceae]
 
 # Default settings; a subgroup's YAML overrides any of them (same key at its top level)
 defaults:
