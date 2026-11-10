@@ -23,7 +23,7 @@ exclude_pairs: []
 # prank_tree/05_igr_tree: branch-length scale for the guide trees (IGR/CDS rate ratio), set by hand
 #   pass 1: guide_tree_scale: 1 + runs: {guide_trees: cds_first_pass} -> run 05, 06, 07
 #   pass 2: the scale 07 prints  + runs: {guide_trees: cds_refined}    -> run 05 again
-guide_tree_scale: 1
-guide_tree_scale_source: ""
+guide_tree_scale: 14.657
+guide_tree_scale_source: guide_trees/v2_first_pass/scale/clustalo_v2 (weighted median)
 runs:
-  guide_trees: v2_first_pass
+  guide_trees: v2_refined

@@ -1,7 +1,7 @@
 {
   "status": "complete",
-  "date_started": "2026-11-06 05:34:46",
-  "date_finished": "2026-11-06 05:35:03",
+  "date_started": "2026-11-10 12:38:40",
+  "date_finished": "2026-11-10 12:38:41",
   "tree_run_name": "v2_first_pass",
   "aln_run_name": "clustalo_v2",
   "model": "GTR+F+G4",
@@ -20,5 +20,6 @@
   "weighted_median": 14.656949572746267,
   "q25": 3.671287351654792,
   "q75": 16.748870557859327,
-  "suggested_scale": 14.656949572746267
+  "suggested_scale": 14.656949572746267,
+  "excluded": []
 }

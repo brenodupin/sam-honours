@@ -1,7 +1,7 @@
 {
   "status": "complete",
-  "date_started": "2026-11-06 05:35:41",
-  "date_finished": "2026-11-06 05:41:24",
+  "date_started": "2026-11-10 12:39:18",
+  "date_finished": "2026-11-10 12:39:24",
   "tree_run_name": "v2_first_pass",
   "aln_run_name": "clustalo_v2",
   "model": "GTR+F+G4",
@@ -14,11 +14,15 @@
   "aln_dir": "alignments/clustalo_v2",
   "iqtree": "iqtree3",
   "iqtree_version": "IQ-TREE version 3.1.4 for Linux x86 64-bit built Sep 10 2026",
-  "n_gene_pairs": 142,
-  "n_used": 142,
-  "median": 11.496903303640256,
-  "weighted_median": 20.564131139887444,
-  "q25": 4.226741494147436,
-  "q75": 18.894902241332133,
-  "suggested_scale": 20.564131139887444
+  "n_gene_pairs": 140,
+  "n_used": 140,
+  "median": 11.246640770521482,
+  "weighted_median": 17.09296150071772,
+  "q25": 4.198460152009745,
+  "q75": 18.54007276282194,
+  "suggested_scale": 17.09296150071772,
+  "excluded": [
+    "TI_TL1|2_--",
+    "TL1|2_TI_++"
+  ]
 }
