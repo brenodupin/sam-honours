@@ -27,9 +27,9 @@ defaults:
 
 # Default run names; a subgroup's YAML can override any of them under `runs:`
 runs:
-  cds: first_pass                  # prank_tree/01-02: species_tree/cds/<run>
-  mafft: first_pass                # prank_tree/03: species_tree/mafft/<run>
-  iqtree: first_pass               # prank_tree/04: species_tree/iqtree/<run>
-  guide_trees: cds_refined         # prank_tree/05 and 07, notebooks/03: guide_trees/<run>
-  clustalo: clustalo_2026-10-08    # prank_tree/06: alignments/<run>
-  prank: prank_cds_refined         # notebooks/03: alignments/<run>
+  cds: v2
+  mafft: v2
+  iqtree: v2
+  guide_trees: v2_refined
+  clustalo: clustalo_v2
+  prank: prank_v2

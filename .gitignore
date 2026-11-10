@@ -7,6 +7,7 @@ sandbox/
 .ruff_cache/
 __pycache__/
 .ipynb_checkpoints/
+scripts/
 
 # --- copied from the source atlas (re-created by 01_get_data)
 *.gdt
