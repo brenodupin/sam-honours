@@ -3,7 +3,7 @@
   "group": "plants_plt",
   "subgroup": "solanaceae",
   "status": "complete",
-  "date_gff3": "2026-11-02 14:14:38",
+  "date_gff3": "2026-11-02 17:04:41",
   "label_synonyms": {
     "PLT-LHBA": "PLT-PSBZ",
     "PLT-IHBA": "PLT-PSBZ",
@@ -22,7 +22,7 @@
   "gff3_dir": "source/gff3",
   "n_ans": 303,
   "n_ans_without_gff3": 0,
-  "date_fasta": "2026-11-02 14:20:45",
+  "date_fasta": "2026-11-02 17:06:46",
   "coverage_min": 0.9,
   "min_rel_len": 0.5,
   "genomes_dir": "source/genomes",

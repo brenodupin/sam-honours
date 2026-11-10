@@ -1,0 +1,40 @@
+{
+  "run_name": "v2",
+  "group": "plants_plt",
+  "subgroup": "solanaceae",
+  "status": "complete",
+  "date_started": "2026-11-02 17:35:26",
+  "date_finished": "2026-11-02 18:58:35",
+  "mafft_run_name": "v2",
+  "model": "MFP+MERGE",
+  "rcluster": 10,
+  "ufboot": 1000,
+  "alrt": 1000,
+  "partition_by_codon": false,
+  "outgroup": [
+    "NC_040178.1",
+    "NC_050782.1",
+    "NC_050169.1"
+  ],
+  "seed": 12345,
+  "extra_args": [],
+  "cds_run_name": "v2",
+  "mafft_mode": "nt",
+  "mafft_args": [
+    "--auto",
+    "--thread",
+    "-32"
+  ],
+  "mafft_version": "v7.526 (2024/Apr/26)",
+  "iqtree": "iqtree3",
+  "iqtree_path": "/opt/iqtree/bin/iqtree3",
+  "iqtree_version": "IQ-TREE version 3.1.4 for Linux x86 64-bit built Sep 10 2026",
+  "threads": "AUTO",
+  "threads_max": 32,
+  "command": "iqtree3 -p /data/users/bdupin/sam-honours/plants_plt/solanaceae/species_tree/iqtree/v2/partitions.nex -m MFP+MERGE -B 1000 --alrt 1000 -T AUTO --seed 12345 --prefix /data/users/bdupin/sam-honours/plants_plt/solanaceae/species_tree/iqtree/v2/iqtree --threads-max 32 -rcluster 10",
+  "n_genes": 75,
+  "n_taxa": 303,
+  "outgroup_monophyletic": true,
+  "midpoint_root_agrees": false,
+  "tree": "species_tree/iqtree/v2/tree.nwk"
+}
