@@ -78,7 +78,7 @@ wins over `config.yaml` (`defaults:` keys at the top level, run names under `run
 | `min_genomes`, `min_genome_frac`, `min_mean_len` | `02_gene_pairs` | keep a gene pair if `mean_len > min_mean_len` and it is in ≥ `max(min_genomes, min_genome_frac × n)` genomes |
 | `outgroup` | `guide_trees/04` | ANs the species tree is rooted on (must form a clade) |
 | `guide_tree_scale`, `guide_tree_scale_source` | `guide_trees/05` | branch-length scale for the guide trees (set by hand, see `guide_trees/README.md`) |
-| `exclude_pairs` | `03_prank` | gene pairs left out of the PRANK run |
+| `exclude_pairs` | `guide_trees/05`–`07`, `03_prank`, `04` | gene pairs left out of every step after `02_gene_pairs` (recorded as `excluded` in each `run.json`) |
 | `runs` | all | per-subgroup run names |
 
 Settings that belong to one run (thresholds, tool flags) stay as constants at the top of each

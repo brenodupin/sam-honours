@@ -9,8 +9,12 @@ outgroup:
   - NC_014062.1   # Anomochloa marantoidea
   - NC_033862.1   # Streptochaeta spicata
 
-# notebooks/03_prank: gene pairs left out of the PRANK run
-exclude_pairs: []
+# gene pairs left out of every step after 02_gene_pairs (guide_trees/05, 06, 07, notebooks/03, 04)
+exclude_pairs:
+  # ~2.5 kb IGRs, 18-23 kb Clustal Omega alignments (>84% gaps); together 26% of the weight
+  # in the 07 scale fit, pulling the weighted median above the 75th percentile (20.6 -> 17.1)
+  - TL1|2_TI_++
+  - TI_TL1|2_--
 
 # guide_trees/05_igr_tree: branch-length scale for the guide trees (IGR/CDS rate ratio), set by hand
 #   pass 1: guide_tree_scale: 1 + runs: {guide_trees: cds_first_pass} -> run 05, 06, 07

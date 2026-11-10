@@ -95,6 +95,20 @@ def get_all(groups: list[str] | None = None) -> dict:
     }
 
 
+def excluded_pairs(info: dict, listed=None) -> set[str]:
+    """Gene pairs to leave out, from `exclude_pairs` in <subgroup>.yaml.
+
+    Every step after 02_gene_pairs (05, 06, 07, 03, 04) skips these. If `listed` (the gene
+    pairs of the step) is given, names not in it are reported, to catch typos.
+    """
+    exclude = {str(gp) for gp in (info["config"].get("exclude_pairs") or [])}
+    if listed is not None:
+        unknown = exclude - {str(gp) for gp in listed}
+        if unknown:
+            log(f"  note: exclude_pairs has gene pairs not in this step: {sorted(unknown)}")
+    return exclude
+
+
 def log(msg: str) -> None:
     """Print a timestamped message."""
     print(f"[{datetime.now():%Y-%m-%d %H:%M:%S}] {msg}")

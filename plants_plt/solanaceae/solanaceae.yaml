@@ -9,7 +9,7 @@ outgroup:
   - NC_050782.1   # Petunia
   - NC_050169.1   # Calibrachoa
 
-# notebooks/03_prank: gene pairs left out of the PRANK run
+# gene pairs left out of every step after 02_gene_pairs (guide_trees/05, 06, 07, notebooks/03, 04)
 exclude_pairs: []
   # - CLPP_PSBT_-+    # psbB not annotated in these genomes
   # - RBCL_PSAI_++    # accD
