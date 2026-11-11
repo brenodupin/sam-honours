@@ -18,7 +18,7 @@
     "gene",
     "pseudogene"
   ],
-  "gdict": "plants_plt/plants_plt.gdt",
+  "gdict": "plants_plt/plants_plt.gdict",
   "gff3_dir": "source/gff3",
   "n_ans": 1275,
   "n_ans_without_gff3": 0,
