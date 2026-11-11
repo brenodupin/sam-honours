@@ -1,0 +1,41 @@
+{
+  "run_name": "prank_v2",
+  "group": "plants_plt",
+  "subgroup": "poaceae",
+  "status": "complete",
+  "date_started": "2026-11-10 13:03:09",
+  "date_finished": "2026-11-10 14:12:30",
+  "guide_trees_run_name": "v2_refined",
+  "command_template": "/home/bdupin/tools/prank-msa/src/prank -d=<igr_by_pair>/gp_{gp}.fasta -t=<guide_trees>/gp_{gp}.nwk -o=<run_dir>/gp_{gp} -DNA +F -once -shortnames",
+  "excluded": [
+    "TI_TL1|2_--",
+    "TL1|2_TI_++"
+  ],
+  "prank": "/home/bdupin/tools/prank-msa/src/prank",
+  "guide_tree_scale": 17.093,
+  "guide_tree_scale_source": "guide_trees/v2_first_pass/scale/clustalo_v2 (weighted median, 2 pairs excluded)",
+  "allow_unscaled": false,
+  "iqtree_run_name": "v2",
+  "mafft_run_name": "v2",
+  "cds_run_name": "v2",
+  "input_fastas": "gene_pairs/igr_by_pair",
+  "gene_pairs_file": "gene_pairs/gene_pairs_filtered.tsv",
+  "n_gene_pairs": 140,
+  "runtime_sec": 4161.8,
+  "counts": {
+    "ok": 139,
+    "skipped": 1
+  },
+  "errors": [],
+  "metrics": {
+    "date": "2026-11-10 14:16:42",
+    "core_gap_max": 0.5,
+    "homopolymer_min": 5,
+    "n_gene_pairs": 140,
+    "missing": [],
+    "files": [
+      "metrics_by_pair.tsv",
+      "metrics_by_seq.tsv"
+    ]
+  }
+}
