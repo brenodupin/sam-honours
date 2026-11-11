@@ -2,7 +2,7 @@
 # Subgroup settings (lineage keywords, outgroup, run overrides, ...) live next to each
 # subgroup's TSV, e.g. plants_plt/solanaceae/solanaceae.yaml
 
-source_path: ../igannot/sandbox/new_atlas   # the atlas, relative to this file
+source_path: /data/shared/organelle-igr   # absolute path to the source data folder (contains subfolders for each group)
 
 tools:
   prank: ~/tools/prank-msa/src/prank
