@@ -10,7 +10,7 @@ __pycache__/
 scripts/
 
 # --- copied from the source atlas (re-created by 01_get_data)
-*.gdt
+*.gdict
 *_lineage.tsv
 # group-level atlas only; subgroup atlases (plants_plt/solanaceae/..._summary_atlas.tsv) are kept
 /*/*_summary_atlas.tsv

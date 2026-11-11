@@ -51,7 +51,7 @@ ENTREZ_API_KEY=...        # optional, raises the request limit
 
 ```
 <source_path>/<group>/
-  <group>.tsv  <group>_summary_atlas.tsv  <group>.gdt  tree.nwk
+  <group>.tsv  <group>_summary_atlas.tsv  <group>.gdict  tree.nwk
   <AN>/<AN>.fasta  <AN>/<AN>.gff3  <AN>/<AN>_intergenic.fasta
 ```
 

@@ -17,7 +17,7 @@ All outputs are in `<group>/<subgroup>/`. Run names come from `runs:` in `config
 
 | Notebook | Input | Output | Run name |
 |---|---|---|---|
-| `01_cds_tree` | `source/gff3/`, `<group>.gdt` | `species_tree/cds/<run>/gff3_raw.tsv`, `gff3_cds.tsv` | `cds` |
+| `01_cds_tree` | `source/gff3/`, `<group>.gdict` | `species_tree/cds/<run>/gff3_raw.tsv`, `gff3_cds.tsv` | `cds` |
 | `02_cds_fasta` | the above, `source/genomes/` | `species_tree/cds/<run>/fasta/`, `label_qc.tsv` | `cds` |
 | `03_mafft` | a complete cds run | `species_tree/mafft/<run>/aln/`, `aln_qc.tsv` | `mafft` |
 | `04_iq_tree` | a complete mafft run, `outgroup` | `species_tree/iqtree/<run>/tree.nwk`, `tree_support.nwk` | `iqtree` |

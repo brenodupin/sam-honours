@@ -52,7 +52,7 @@ def get_info(group: str, subgroup: str) -> dict:
             "group_dir": gd,
             "group_tsv": gd / f"{group}.tsv",
             "group_atlas": gd / f"{group}_summary_atlas.tsv",
-            "group_gdict": gd / f"{group}.gdt",
+            "group_gdict": gd / f"{group}.gdict",
             "group_tree": gd / "tree.nwk",
             "group_lineage": gd / f"{group}_lineage.tsv",
             # --- subgroup level
